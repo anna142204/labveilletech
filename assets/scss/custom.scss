@@ -1,0 +1,27 @@
+.article-content {
+    h2 {
+        color: #00433b;
+        border-bottom: 2px solid #eee;
+        padding-bottom: 10px;
+        margin-top: 40px;
+        border-inline-start: none;
+    }
+
+    h3 {
+        color: #264653;
+        border-inline-start: none;
+    }
+}
+
+.container .right-sidebar {
+    order: -1;
+    max-width: 20%;
+}
+.container .left-sidebar {
+    max-width: 20%;
+    margin-left: 20px;
+}
+
+.site-logo {
+    object-fit: cover;
+}

@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 date: 2019-05-28
-layout: "article-list"
+layout: "archives"
 slug: "articles"
 menu:
     main:
