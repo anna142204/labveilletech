@@ -9,14 +9,12 @@ menu:
             icon: user
 ---
 
-## À propos de moi
-
 Bienvenue sur mon Lab de Veille Technologique. Je m'appelle **Anna Tranchida** et ce site regroupe mes recherches et apprentissages.
 
 ---
 
 ## Mon Ikigai
-<img src="/img/ikigai.png" style="width: 60%; display: block; margin: 0 auto;">
+<img src="/img/ikigai.png" alt="Mon Ikigai" style="max-width: 600px; width: 100%; height: auto;">
 
 ## Mon Domaine
 

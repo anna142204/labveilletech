@@ -69,16 +69,23 @@ theme = 'stack'
   [[menu.social]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/"
+    url = "https://github.com/anna142204"
     [menu.social.params]
       icon = "brand-github"
 
   [[menu.social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com"
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "www.linkedin.com/in/anna-tranchida"
     [menu.social.params]
-      icon = "brand-twitter"
+      icon = "linkedin"
+
+   [[menu.social]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "https://anna.tranchida.ch"
+    [menu.social.params]
+      icon = "globe"
 
 # --- Articles liés ---
 [related]

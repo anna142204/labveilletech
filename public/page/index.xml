@@ -12,11 +12,10 @@
         <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;h2 id=&#34;à-propos-de-moi&#34;&gt;À propos de moi
-&lt;/h2&gt;&lt;p&gt;Bienvenue sur mon Lab de Veille Technologique. Je m&amp;rsquo;appelle &lt;strong&gt;Anna Tranchida&lt;/strong&gt; et ce site regroupe mes recherches et apprentissages.&lt;/p&gt;
+        <description>&lt;p&gt;Bienvenue sur mon Lab de Veille Technologique. Je m&amp;rsquo;appelle &lt;strong&gt;Anna Tranchida&lt;/strong&gt; et ce site regroupe mes recherches et apprentissages.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;mon-ikigai&#34;&gt;Mon Ikigai
-&lt;/h2&gt;&lt;img src=&#34;http://localhost:1313/img/ikigai.png&#34; style=&#34;width: 60%; display: block; margin: 0 auto;&#34;&gt;
+&lt;/h2&gt;&lt;img src=&#34;http://localhost:1313/img/ikigai.png&#34; alt=&#34;Mon Ikigai&#34; style=&#34;max-width: 600px; width: 100%; height: auto;&#34;&gt;
 &lt;h2 id=&#34;mon-domaine&#34;&gt;Mon Domaine
 &lt;/h2&gt;&lt;h3 id=&#34;conception-et-développement-dexpériences-numériques&#34;&gt;Conception et développement d’expériences numériques
 &lt;/h3&gt;&lt;p&gt;Je me concentre sur les applications, sites web et outils interactifs alliant &lt;strong&gt;design UX/UI&lt;/strong&gt; et &lt;strong&gt;développement&lt;/strong&gt;.&lt;/p&gt;
