@@ -1,10 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anna Tranchida</title><link>https://anna142204.github.io/labveilletech/</link><description>Recent content on Anna Tranchida</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 15 Jan 2026 10:39:18 +0100</lastBuildDate><atom:link href="https://anna142204.github.io/labveilletech/index.xml" rel="self" type="application/rss+xml"/><item><title>Monarticle</title><link>https://anna142204.github.io/labveilletech/post/monarticle/</link><pubDate>Thu, 15 Jan 2026 10:39:18 +0100</pubDate><guid>https://anna142204.github.io/labveilletech/post/monarticle/</guid><description>&lt;blockquote&gt;
-&lt;p&gt;La citation&lt;/p&gt;&lt;span class="cite"&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Book"&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;style&gt;
-&lt;/style&gt;</description></item><item><title>Monarticle2</title><link>https://anna142204.github.io/labveilletech/post/monarticle2/</link><pubDate>Thu, 15 Jan 2026 10:39:18 +0100</pubDate><guid>https://anna142204.github.io/labveilletech/post/monarticle2/</guid><description>&lt;p&gt;fkufulzfkuz&lt;/p&gt;</description></item><item><title>À Propos</title><link>https://anna142204.github.io/labveilletech/page/about/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/about/</guid><description>&lt;p&gt;Bienvenue sur mon Lab de Veille Technologique. Je m&amp;rsquo;appelle &lt;strong&gt;Anna Tranchida&lt;/strong&gt; et ce site regroupe mes recherches et apprentissages.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anna Tranchida</title><link>https://anna142204.github.io/labveilletech/</link><description>Recent content on Anna Tranchida</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anna142204.github.io/labveilletech/index.xml" rel="self" type="application/rss+xml"/><item><title>Mon système de veille actuel</title><link>https://anna142204.github.io/labveilletech/post/veille/</link><pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/post/veille/</guid><description>&lt;h2 id="mon-système-de-veille-actuel--état-des-lieux"&gt;Mon système de veille actuel : état des lieux
+&lt;/h2&gt;&lt;p&gt;Ma veille reste &lt;strong&gt;essentiellement réactive&lt;/strong&gt; : quand un contenu m’interpelle (nouvel outil Figma, astuce accessibilité, design system) sur &lt;strong&gt;LinkedIn, Instagram, Threads, YouTube&lt;/strong&gt; ou autre, je le sauvegarde dans les favoris de chaque application ou dans les &lt;strong&gt;favoris Google&lt;/strong&gt; organisés en catégories : “Outils”, “Design”, “Développement”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Points forts&lt;/strong&gt; : ultra-simple, catégories alignées sur mes taxonomies principales&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Limites majeures&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sporadique&lt;/strong&gt; : pas de routine hebdo, je n’y reviens que si besoin urgent&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Passive&lt;/strong&gt; : pas de synthèse, je ne sais plus “pourquoi” j’ai sauvegardé.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non structurée&lt;/strong&gt; : difficile de retrouver, pas d’actions concrètes associées&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ce-qui-fonctionne-déjà-bien"&gt;Ce qui fonctionne déjà bien
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Catégorisation intuitive&lt;/strong&gt; : lié à mon domaine&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibilité multi-plateforme&lt;/strong&gt; : dispo partout (mobile, desktop), synchro Google&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zéro friction&lt;/strong&gt; : sauvegarde immédiate, pas de login supplémentaire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="pourquoi-je-dois-maméliorer-maintenant"&gt;Pourquoi je dois m&amp;rsquo;améliorer maintenant
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Problèmes concrets&lt;/strong&gt; :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Oubli de contexte&lt;/strong&gt; : pourquoi ce lien sur les tokens ? Pour quel projet ?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recherche laborieuse&lt;/strong&gt; : 50+ favoris par catégorie, pas de mots-clés&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pas de synthèse&lt;/strong&gt; : liens accumulés sans transformation en connaissance personnelle&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flux sociaux toxiques&lt;/strong&gt; : distraction + contenu de faible qualité.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="mon-plan-damélioration-"&gt;Mon plan d&amp;rsquo;amélioration :
+&lt;/h2&gt;&lt;h3 id="notion-comme-base-centrale"&gt;Notion comme base centrale
+&lt;/h3&gt;&lt;p&gt;Regrouper tout ce que je trouve dans un même endroit, trié et catégorisé.&lt;br&gt;
+Notion me semble un outil pertinent, car je sais déjà l&amp;rsquo;utiliser et il demande un effort actif et pas juste une action passive (mettre en favoris).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tableau Notion prévu&lt;/strong&gt; :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Propriétés&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Usage&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Titre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Texte&lt;/td&gt;
+&lt;td&gt;Nom article/outil&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;URL&lt;/td&gt;
+&lt;td&gt;Lien original&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Catégorie&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Select&lt;/td&gt;
+&lt;td&gt;UX/UI, Design systems, Accessibilité, Frontend, &amp;hellip;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Résumé&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Texte&lt;/td&gt;
+&lt;td&gt;3 phrases max&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Utilité&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Texte&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Pour quel projet ?&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Select&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Tester&amp;rdquo;, &amp;ldquo;Coder&amp;rdquo;, &amp;ldquo;Lire approfondi&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Date&lt;/td&gt;
+&lt;td&gt;Quand sauvegardé&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Template Notion pour chaque entrée&lt;/strong&gt; : “Ce que je retiens + Pourquoi utile + Action à faire”.&lt;/p&gt;
+&lt;h3 id="newsletters-à-abonner"&gt;Newsletters à abonner
+&lt;/h3&gt;&lt;p&gt;Je pensais m&amp;rsquo;abonner à des newsletters que je trouve pertinentes pour mon domaine, et prendre les informations que je trouverais intéressantes sur mon Notion.&lt;br&gt;
+Pour chaque envoi, je sélectionne 1–2 pépites et les ajoute directement dans mon tableau Notion avec catégorie et utilité.&lt;/p&gt;
+&lt;h2 id="pourquoi-ce-sera-utile"&gt;Pourquoi ce sera utile
+&lt;/h2&gt;&lt;p&gt;Sur le court terme, ce système structuré sera essentiel pour mon Travail de Bachelor : il me permettra de trouver rapidement des informations, outils et bonnes pratiques pour concevoir mon design system, qui constitue le cœur de mon projet. Au lieu de fouiller dans des favoris perdus, j&amp;rsquo;aurai une base centralisée avec synthèses et actions concrètes.&lt;/p&gt;
+&lt;p&gt;À plus long terme, pour ma carrière et ma vie professionnelle quotidienne, cette veille organisée me permettra de savoir de quoi je parle en entretien ou réunion, de bien me positionner face aux recruteurs, de découvrir régulièrement de nouvelles approches et de rester à jour sur les tendances sans me noyer dans l&amp;rsquo;info.&lt;/p&gt;</description></item><item><title>Apprendre avec les LLM</title><link>https://anna142204.github.io/labveilletech/post/monarticle2/</link><pubDate>Thu, 15 Jan 2026 10:39:18 +0100</pubDate><guid>https://anna142204.github.io/labveilletech/post/monarticle2/</guid><description/></item><item><title>À Propos</title><link>https://anna142204.github.io/labveilletech/page/about/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/about/</guid><description>&lt;p&gt;Bonjour, je m&amp;rsquo;appelle &lt;strong&gt;Anna Tranchida&lt;/strong&gt;.
+Je suis étudiante en &lt;strong&gt;Ingénierie des Médias&lt;/strong&gt; à &lt;strong&gt;l&amp;rsquo;HEIG-VD&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="mon-ikigai"&gt;Mon Ikigai
-&lt;/h2&gt;&lt;img src="https://anna142204.github.io/labveilletech/img/ikigai.png" alt="Mon Ikigai" style="max-width: 600px; width: 100%; height: auto;"&gt;
+&lt;/h2&gt;&lt;img src="ikigai.png" alt="Mon Ikigai" style="max-width: 600px; width: 100%; height: auto;"&gt;
 &lt;h2 id="mon-domaine"&gt;Mon Domaine
 &lt;/h2&gt;&lt;h3 id="conception-et-développement-dexpériences-numériques"&gt;Conception et développement d’expériences numériques
 &lt;/h3&gt;&lt;p&gt;Je me concentre sur les applications, sites web et outils interactifs alliant &lt;strong&gt;design UX/UI&lt;/strong&gt; et &lt;strong&gt;développement&lt;/strong&gt;.&lt;/p&gt;
