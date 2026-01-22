@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anna Tranchida</title><link>https://anna142204.github.io/labveilletech/</link><description>Recent content on Anna Tranchida</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 15 Jan 2026 10:39:18 +0100</lastBuildDate><atom:link href="https://anna142204.github.io/labveilletech/index.xml" rel="self" type="application/rss+xml"/><item><title>Monarticle</title><link>https://anna142204.github.io/labveilletech/post/monarticle/</link><pubDate>Thu, 15 Jan 2026 10:39:18 +0100</pubDate><guid>https://anna142204.github.io/labveilletech/post/monarticle/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;La citation&lt;/p&gt;&lt;span class="cite"&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Book"&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;style&gt;
+&lt;/style&gt;</description></item><item><title>Monarticle2</title><link>https://anna142204.github.io/labveilletech/post/monarticle2/</link><pubDate>Thu, 15 Jan 2026 10:39:18 +0100</pubDate><guid>https://anna142204.github.io/labveilletech/post/monarticle2/</guid><description>&lt;p&gt;fkufulzfkuz&lt;/p&gt;</description></item><item><title>À Propos</title><link>https://anna142204.github.io/labveilletech/page/about/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/about/</guid><description>&lt;p&gt;Bienvenue sur mon Lab de Veille Technologique. Je m&amp;rsquo;appelle &lt;strong&gt;Anna Tranchida&lt;/strong&gt; et ce site regroupe mes recherches et apprentissages.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="mon-ikigai"&gt;Mon Ikigai
+&lt;/h2&gt;&lt;img src="https://anna142204.github.io/labveilletech/img/ikigai.png" alt="Mon Ikigai" style="max-width: 600px; width: 100%; height: auto;"&gt;
+&lt;h2 id="mon-domaine"&gt;Mon Domaine
+&lt;/h2&gt;&lt;h3 id="conception-et-développement-dexpériences-numériques"&gt;Conception et développement d’expériences numériques
+&lt;/h3&gt;&lt;p&gt;Je me concentre sur les applications, sites web et outils interactifs alliant &lt;strong&gt;design UX/UI&lt;/strong&gt; et &lt;strong&gt;développement&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Pourquoi ?&lt;/strong&gt;
+C&amp;rsquo;est pour moi l&amp;rsquo;intersection idéale entre créativité, design et technologie pour créer des outils numériques concrets et utiles au quotidien.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="mots-clés"&gt;Mots-clés
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Création numérique&lt;/li&gt;
+&lt;li&gt;UX/UI &amp;amp; Design d’interaction&lt;/li&gt;
+&lt;li&gt;Accessibilité &amp;amp; Performance&lt;/li&gt;
+&lt;li&gt;Prototypage &amp;amp; Tests utilisateurs&lt;/li&gt;
+&lt;li&gt;Design systems&lt;/li&gt;
+&lt;li&gt;Développement web &amp;amp; Jeux&lt;/li&gt;
+&lt;li&gt;Solutions numériques utiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="sous-domaines"&gt;Sous-domaines
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Design d’interface et d’interaction&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design systems et guidelines&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Développement frontend&lt;/strong&gt; (web/app/jeux)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibilité&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recherche UX et amélioration continue&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="taxonomies"&gt;Taxonomies
+&lt;/h2&gt;&lt;p&gt;Pour organiser ma veille sur ce site, j&amp;rsquo;utilise deux systèmes de classement principaux :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class="link" href="https://anna142204.github.io/labveilletech/categories/" &gt;Les catégories&lt;/a&gt;&lt;/strong&gt; : Les grands thèmes de mes recherches.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class="link" href="https://anna142204.github.io/labveilletech/tags/" &gt;Les tags (Étiquettes)&lt;/a&gt;&lt;/strong&gt; : Les mots-clés spécifiques pour retrouver des concepts précis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="comment-jai-fait-ce-site"&gt;Comment j&amp;rsquo;ai fait ce site
+&lt;/h2&gt;&lt;p&gt;Ce site est un &lt;strong&gt;site statique&lt;/strong&gt; conçu pour être rapide, sécurisé et facile à maintenir.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Générateur :&lt;/strong&gt; &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+&gt;Hugo&lt;/a&gt;, un framework open-source ultra-rapide.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thème :&lt;/strong&gt; &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+&gt;Stack&lt;/a&gt;, choisi pour son design en cartes et sa lisibilité.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hébergement :&lt;/strong&gt; Le code est versionné via Git.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Articles</title><link>https://anna142204.github.io/labveilletech/page/articles/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/articles/</guid><description/></item><item><title>Search</title><link>https://anna142204.github.io/labveilletech/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/search/</guid><description/></item></channel></rss>
