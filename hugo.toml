@@ -29,11 +29,11 @@ theme = 'stack'
 
   [params.footer]
     since = 2026
-    customText = "Lab Veille Tech"
+    customText = "Laboratoire de veille technologique"
 
   # --- Barre Latérale ---
   [params.sidebar]
-    emoji = "🍥"
+    emoji = "📚"
     subtitle = "Étudiante en Ingénierie des Médias"
 
 
