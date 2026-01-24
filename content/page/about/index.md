@@ -17,6 +17,8 @@ Je suis étudiante en **Ingénierie des Médias** à **l'HEIG-VD**.
 ## Mon Ikigai
 <img src="ikigai.png" alt="Mon Ikigai" style="max-width: 600px; width: 100%; height: auto;">
 
+Mon ikigai est d’utiliser ma créativité et mes compétences techniques pour concevoir, développer et rendre accessibles des outils numériques qui facilitent le quotidien et apportent stabilité, clarté et utilité à ceux qui les utilisent, tout en trouvant une réelle satisfaction à être utile, à travers des créations esthétiques, fonctionnelles et cohérentes dans un monde parfois chaotique.
+
 ## Mon Domaine
 
 ### Conception et développement d’expériences numériques

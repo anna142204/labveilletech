@@ -1,7 +1,7 @@
 ---
 title: "Mon système de veille actuel"
 date: 2026-01-22
-tags: ["veille", "notion", "newsletters", "organisation"]
+tags: ["veille", "organisation"]
 categories: ["Outils"]
 draft: false
 ---
@@ -43,6 +43,7 @@ Notion me semble un outil pertinent, car je sais déjà l'utiliser et il demande
 | **Titre** | Texte | Nom article/outil |
 | **Source** | URL | Lien original |
 | **Catégorie** | Select | UX/UI, Design systems, Accessibilité, Frontend, ... |
+| **Sous-catégorie** | Texte | Catégorie plus spécifique |
 | **Résumé** | Texte | 3 phrases max |
 | **Utilité** | Texte | "Pour quel projet ?" |
 | **Action** | Select | "Tester", "Coder", "Lire approfondi" |
@@ -57,6 +58,6 @@ Pour chaque envoi, je sélectionne 1–2 pépites et les ajoute directement dans
 
 ## Pourquoi ce sera utile 
 
-Sur le court terme, ce système structuré sera essentiel pour mon Travail de Bachelor : il me permettra de trouver rapidement des informations, outils et bonnes pratiques pour concevoir mon design system, qui constitue le cœur de mon projet. Au lieu de fouiller dans des favoris perdus, j'aurai une base centralisée avec synthèses et actions concrètes.
+Sur le court terme, ce système structuré sera essentiel pour mon Travail de Bachelor : il me permettra de trouver rapidement des informations, outils et bonnes pratiques. Au lieu de fouiller dans des favoris perdus, j'aurai une base centralisée avec synthèses et actions concrètes.
 
 À plus long terme, pour ma carrière et ma vie professionnelle quotidienne, cette veille organisée me permettra de savoir de quoi je parle en entretien ou réunion, de bien me positionner face aux recruteurs, de découvrir régulièrement de nouvelles approches et de rester à jour sur les tendances sans me noyer dans l'info.
