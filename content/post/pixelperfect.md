@@ -1,6 +1,6 @@
 ---
 title: "L'évolution des design systems : fin du pixel perfect"
-date: 2026-01-23
+date: 2026-01-22
 tags: ["design", "responsive", "design systems"]
 categories: ["Design"]
 draft: false
@@ -18,11 +18,13 @@ La solution proposée est de passer au "design intent" : traduire l'intention du
 
 ## Pourquoi ça m'intéresse et pourquoi c'est utile pour moi
 
-Cet article m’intéresse particulièrement parce que, pour mon TB, je dois créer un design system. Je connais déjà l’importance du responsive et je sais que le web ne se comporte pas comme une maquette figée. Par contre, je me rends compte que je n’applique pas toujours ces principes de la bonne manière dans ma façon de designer et de préparer les composants.
+Je connais déjà l’importance du responsive et je sais que le web ne se comporte pas comme une maquette figée. Par contre, je me rends compte que je n’applique pas toujours ces principes de la bonne manière dans ma façon de designer et de préparer les composants.
 
-Ce que l’article m’apporte, c’est surtout un cadre plus clair : il ne s’agit pas juste d’éviter le “pixel perfect”, mais de mieux formaliser l’intention derrière mes choix (espacements, hiérarchie, comportements) pour que mes composants restent cohérents dans différents contextes. Je me rends compte aussi que j’ai encore beaucoup à apprendre, notamment sur Figma, pour faire des designs vraiment fluides. Je l’ai constaté en pratique avec l’extension MVP : en partant de ma maquette pour générer du code, le résultat devenait vite rigide dès qu’on sortait du contexte prévu, ce qui m’a rappelé que la qualité des composants et de la structure de base est essentielle, même avec l’aide de l’IA.
+Ce que l’article m’apporte, c’est surtout un cadre plus clair : il ne s’agit pas juste d’éviter le “pixel perfect”, mais de mieux formaliser l’intention derrière mes choix (espacements, hiérarchie, comportements) pour que mes composants restent cohérents dans différents contextes. Je me rends compte aussi que j’ai encore beaucoup à apprendre, notamment sur Figma, pour faire des designs vraiment fluides.
 
-Au final, cet article me fait réfléchir à comment mieux structurer mes designs, et je vais devoir creuser ces concepts pour mon travail de bachelor.
+Je l’ai constaté en pratique avec l’extension MVP : en partant de ma maquette pour générer du code, le résultat devenait vite rigide dès qu’on sortait du contexte prévu, ce qui m’a rappelé que la qualité des composants et de la structure de base est essentielle, même avec l’aide de l’IA.
+
+Dans le cadre de mon Travail de Bachelor (où je vais construire un design system), cette logique “design intent” m’aidera à concevoir des composants plus robustes que des composants “calés” pour une seule maquette.
  
 ## Comment je l’ai trouvé
 

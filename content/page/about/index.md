@@ -49,8 +49,8 @@ Je me concentre sur les applications, sites web et outils interactifs alliant **
 
 Pour organiser ma veille sur ce site, j'utilise deux systèmes de classement principaux :
 
-* **[Les catégories](/categories/)** : Les grands thèmes de mes recherches.
-* **[Les tags (Étiquettes)](/tags/)** : Les mots-clés spécifiques pour retrouver des concepts précis.
+* **Les catégories** : Les grands thèmes de mes recherches
+* **Les tags** : Les mots-clés spécifiques pour retrouver des concepts précis
 
 ---
 
@@ -60,4 +60,4 @@ Ce site est un **site statique** conçu pour être rapide, sécurisé et facile 
 
 * **Générateur :** [Hugo](https://gohugo.io/), un framework open-source ultra-rapide.
 * **Thème :** [Stack](https://github.com/CaiJimmy/hugo-theme-stack), choisi pour son design en cartes et sa lisibilité.
-* **Hébergement :** Le code est versionné via Git.
+* **Hébergement :** le site est déployé sur **GitHub Pages**, ce qui permet d’héberger gratuitement un site statique directement depuis un dépôt Git.

@@ -1,6 +1,6 @@
 ---
 title: "Mon système de veille actuel"
-date: 2026-01-22
+date: 2026-01-21
 tags: ["veille", "organisation"]
 categories: ["Outils"]
 draft: false

@@ -22,13 +22,13 @@ Enfin, le point le plus utile pour moi : l’article rappelle qu’un skeleton s
 
 ## Pourquoi ça m’intéresse et pourquoi c’est utile pour moi
 
-Ce sujet est pertinent pour mon domaine car il touche directement au design d’interaction et à la qualité perçue d’une interface. C’est typiquement le genre de “détail” qui fait la différence entre une expérience qui semble lente et une expérience qui semble fluide, même si la vitesse réelle n’a pas changé.
+Ce sujet est pertinent pour mon domaine car il touche directement au design d’interaction et à la performance perçue d’une interface. C’est typiquement le genre de “détail” qui change l’expérience : on a moins l’impression d’attendre, même si le temps réel n’a pas forcément changé.
 
-Je le vois aussi comme un élément intéressant à intégrer (ou au moins à documenter) dans un design system : ce n’est pas seulement “un composant”, c’est un comportement et un usage. Si ce n’est pas cadré, on peut se retrouver avec des skeletons incohérents d’une page à l’autre, ou mal adaptés au contenu final.
+Je le vois aussi comme un élément à documenter dans un design system : ce n’est pas seulement un composant, mais un usage et un comportement. Dans le cadre de mon TB, ça me donne un exemple concret de pattern à cadrer (quand l’utiliser, quoi afficher, et comment garder la cohérence sur plusieurs pages).
 
 ## À quel moment ce sera utile pour moi
 
-Ce sera utile quand je travaillerai sur des interfaces avec du contenu qui charge de manière asynchrone (listes, cartes, médias, résultats) et que je voudrai garder une sensation de continuité pour l’utilisateur. Ce sera aussi utile pour mon Travail de Bachelor, car cela me donne un exemple concret de pattern à encadrer : quand l’utiliser, comment il doit se comporter, et comment garder une cohérence visuelle et fonctionnelle.
+Ce sera utile quand je travaillerai sur des interfaces avec du contenu asynchrone (listes, cartes, médias, résultats) et que je voudrai garder une sensation de continuité. Ce sera aussi utile quand je formaliserai mes états “loading” dans mon design system, pour éviter des solutions improvisées et incohérentes d’une équipe ou d’un écran à l’autre.
 
 ## Comment je l’ai trouvé
 

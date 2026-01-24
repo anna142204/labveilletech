@@ -1,6 +1,6 @@
 ---
 title: 'Apprendre avec les LLM'
-date: 2026-01-22
+date: 2026-01-21
 tags: ['LLM', 'apprentissage', 'IA']
 categories: ['Outils']
 draft: false

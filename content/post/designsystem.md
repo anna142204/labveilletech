@@ -23,13 +23,13 @@ Une façon simple d’expliquer leur structure est la hiérarchie suivante : tok
 
 ## Pourquoi ça m’intéresse et pourquoi c’est utile pour moi
 
-Ce sujet m’aide à clarifier la différence entre “faire des composants” et construire un système complet : il faut aussi des règles, une documentation et une maintenance dans le temps.  
-Comprendre les tokens me permet aussi de voir comment transformer des choix visuels (couleurs, typo, spacing) en décisions réutilisables et évolutives.  
+Ce sujet m’aide à clarifier la différence entre “faire une librairie de composants” et construire un système complet : il faut aussi des règles, une documentation et une logique de maintenance. Comprendre les design tokens me permet de voir comment transformer des choix visuels (couleurs, typo, spacing) en décisions réutilisables et plus faciles à faire évoluer.
+
+Pour mon TB, c’est particulièrement utile parce que je vais devoir structurer un design system : ces notions me donnent un cadre concret pour organiser mes foundations et éviter les variations incohérentes entre composants.
 
 ## À quel moment ce sera utile pour moi
 
-Ce sera utile au moment de structurer des foundations (couleurs, typo, spacing) et de garantir leur cohérence dans tous les composants.  
-Ce sera aussi utile quand il faudra faire évoluer un produit (ajouts, refonte, variantes, theming), car un design system bien organisé permet de changer plus vite et avec moins de risques.  
+Ce sera utile au moment de définir mes foundations (couleurs, typo, spacing) et de les rendre cohérentes dans tous les composants. Ce sera aussi utile quand il faudra faire évoluer l’interface (ajouts, refonte, variantes, theming), car des tokens bien structurés rendent ces changements plus simples à appliquer et à contrôler.
 
 ## Comment je les ai trouvés
 
