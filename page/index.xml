@@ -33,8 +33,8 @@ C&amp;rsquo;est pour moi l&amp;rsquo;intersection idéale entre créativité, de
 &lt;h2 id="taxonomies"&gt;Taxonomies
 &lt;/h2&gt;&lt;p&gt;Pour organiser ma veille sur ce site, j&amp;rsquo;utilise deux systèmes de classement principaux :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a class="link" href="https://anna142204.github.io/labveilletech/categories/" &gt;Les catégories&lt;/a&gt;&lt;/strong&gt; : Les grands thèmes de mes recherches.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a class="link" href="https://anna142204.github.io/labveilletech/tags/" &gt;Les tags (Étiquettes)&lt;/a&gt;&lt;/strong&gt; : Les mots-clés spécifiques pour retrouver des concepts précis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Les catégories&lt;/strong&gt; : Les grands thèmes de mes recherches&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Les tags&lt;/strong&gt; : Les mots-clés spécifiques pour retrouver des concepts précis&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="comment-jai-fait-ce-site"&gt;Comment j&amp;rsquo;ai fait ce site
@@ -44,5 +44,5 @@ C&amp;rsquo;est pour moi l&amp;rsquo;intersection idéale entre créativité, de
 &gt;Hugo&lt;/a&gt;, un framework open-source ultra-rapide.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Thème :&lt;/strong&gt; &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
 &gt;Stack&lt;/a&gt;, choisi pour son design en cartes et sa lisibilité.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hébergement :&lt;/strong&gt; Le code est versionné via Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hébergement :&lt;/strong&gt; le site est déployé sur &lt;strong&gt;GitHub Pages&lt;/strong&gt;, ce qui permet d’héberger gratuitement un site statique directement depuis un dépôt Git.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Articles</title><link>https://anna142204.github.io/labveilletech/page/articles/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/articles/</guid><description/></item><item><title>Search</title><link>https://anna142204.github.io/labveilletech/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anna142204.github.io/labveilletech/page/search/</guid><description/></item></channel></rss>
